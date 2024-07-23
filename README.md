@@ -14,7 +14,7 @@ Install the modified timm library
 ```bash
 pip install timm-0.5.4.tar
 ```
-The pre-trained models ctranspath.pth can be downloaded directly from the original cTransPath repository https://github.com/Xiyue-Wang/TransPath
+The pre-trained model ctranspath.pth can be downloaded directly from the original cTransPath repository https://github.com/Xiyue-Wang/TransPath
 
 ### Extract neoplasic features
 To use the model, you can use the following code:
