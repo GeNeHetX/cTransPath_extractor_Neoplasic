@@ -9,6 +9,7 @@ This package implement the features extractor described in [1] from the output o
 ## Usage
 1.CTransPath
 Usage: Preparation
+
 Install the modified timm library
 ```bash
 pip install timm-0.5.4.tar
